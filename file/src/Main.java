@@ -16,6 +16,7 @@ public class Main {
 
       for(int i=0;i<user.getCompetitors().length;i++){
           System.out.println(user.getCompetitors()[i].getName());
+       //Hello!
       }
     }
 
